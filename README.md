@@ -1,2 +1,2 @@
 # PipeRec
-This is a integrated tool for Recommend System
+This is an integrated tool for Recommend System
