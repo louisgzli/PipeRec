@@ -1,11 +1,5 @@
 # 模型语义召回工程
 
-### 远程开发小技巧：
-用以下这段代码来实现ssh和主机之间的接口映射，达到远程使用jupyter的效果
-```shell
-ssh -N -f -L localhost:8888:localhost:1818 oppoer@remote-dev.starfire.wanyol.com -p12548
-```
-然后连接 [http://localhost:8888/proxy/notebook/task-20230116120935-78384/lab]()
 
 
 ### 一、该工程的目的
